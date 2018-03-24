@@ -1,0 +1,50 @@
+.clearfix{clear: both;}
+ul{list-style: none; margin: 0px; padding: 0px;}
+body{background: #333333 url("../images/backgroundRunner.png"); background-repeat: repeat-x;}
+.logo{padding:10px 30px;}
+.navigation{float: right;}
+.navigationHolder{margin: 20px 0 0 0;}
+.navigationHolder li{float: left; text-transform: uppercase; padding: 10px 30px; border-right:1px dotted #333; font-size: 20px; font-weight: bold; padding-left: 10px;}
+.navigationHolder li:nth-child(1){border-left:1px dotted #333;}
+.text{font-size: 10px; font-weight: none; color: #c2c2c2; text-transform: none;}
+.navigationHolder li:nth-child(5){border-right:0px dotted #333;}
+.banner{margin:30px 0 0 0; padding: 20px 10px;}
+.banner img{width:1330px; height: 337px;}
+.catchText{text-align: center; border-bottom: 10px solid; border-image:url('../images/spacerLine.png') 50 round; font-weight: bold; font-size: 30px; padding: 0px 0 25px 0px;}
+.blocksContainer{padding: 20px 0px;}
+.innerContainer{float: left; width: 33.33%;}
+.middleContainer{background: green;}
+.button{padding: 10px 0; border-image:url('../images/spacerLine.png') 50 round;}
+.image{padding: 10px 0;}
+.block{padding:0px 20px;}
+.main{padding:10px 0 0 0 ; font-size: 20px; margin: 10px 0;}
+.navigationimageHolder li{float: left; padding: 10px 5px;}
+.inputbox{width: 300px; margin:10px 0px; border-radius: 5px; height: 30px; padding:0px 10px;}
+.title{font-size: 25px; color: #418db1;}
+.subtitle{font-size: 15px; color: #8c8c8c;}
+.description{text-align: left;}
+.contactbox{padding:20px 0px;}
+.button{padding: 31px 0px;}
+.secondbutton{padding: 42px 16px;}
+.thirdbutton{padding: 13px 16px}
+.boxContainer{float: left; width: 33.33%;}
+.contactcontainer{float: left; width: 33.33%;}
+.firstbox{margin:10px 0; padding:0px 20px;}
+.main{border-bottom:2px dotted #ccc; padding:10px 0; font-weight: bold; font-size: 20px;}
+.secondcontent{padding:10px 0;}
+.mainsecond{border-bottom:2px dotted #ccc; font-weight: bold; font-size: 25px; padding:10px 0;}
+.emailbox{width: 310px; height: 25px; border-radius: 8px;}
+.abc{float: left; padding: auto;}
+.information{width: 310px; height: 25px; border-radius: 8px; padding: 0px 10px;}
+.informationbox{padding: 0px 10px;}
+.mailbox{padding: 10px 10px;}
+.message{width: 310px; height: 25px; border-radius: 10px; padding: 52px 10px;}
+.buttonimage{margin:20px 0 0 10px;}
+.websitecontent{float:right; padding: 0px 10px;}	
+.websitetopic{float: left; width: 370px;}
+.newsTeasersImage{float: left; width: 70px;}
+.firefoximage{border-bottom:2px dotted #ccc; height: 65px; padding:10px 0px;}
+.shellIcon2image{border-bottom:2px dotted #ccc; height: 65px; padding:10px 0px;}
+.footer{height: 175px; display: inline; padding: 10px 0; background: #000;}
+.footerpara{color: white;}
+.footersecond{float: right; color: white;}
